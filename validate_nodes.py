@@ -18,8 +18,7 @@ ROOT = "https://raw.githubusercontent.com/vincent20240707/free-v2ray-nodes/main/
 SCHEMES = ("vmess://", "vless://", "ss://", "trojan://", "hysteria2://", "hy2://", "tuic://")
 CORE = Path(os.environ.get("MIHOMO_BIN", r"C:\Program Files\Clash Verge\verge-mihomo.exe"))
 URL = "https://www.gstatic.com/generate_204"
-TARGET = 20
-TCP_SAMPLE = 100
+TARGET = 50
 
 
 def decode64(s):
@@ -205,14 +204,13 @@ def main():
         for start in range(0, len(items), 100):
             with concurrent.futures.ThreadPoolExecutor(max_workers=100) as pool:
                 reachable = [x for x in pool.map(tcp, items[start:start + 100]) if x]
-            reachable = reachable[:TCP_SAMPLE - tcp_count]
             tcp_count += len(reachable)
             print(f"tcp_pass={tcp_count} candidates_checked={min(start + 100, len(items))}", flush=True)
             for offset in range(0, len(reachable), 20):
                 test_proxy_batch(reachable[offset:offset + 20], offset)
-                if len(valid) >= TARGET and tcp_count >= TCP_SAMPLE:
+                if len(valid) >= TARGET:
                     break
-            if tcp_count >= TCP_SAMPLE:
+            if len(valid) >= TARGET:
                 break
     valid = valid[:TARGET]
     if len(valid) < TARGET:

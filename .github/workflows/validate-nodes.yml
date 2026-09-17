@@ -32,7 +32,7 @@ jobs:
         shell: bash
         run: |
           day=$(TZ=Asia/Shanghai date +%F)
-          if [ -f last-validation.json ] && python -c 'import json,sys; sys.exit(json.load(open("last-validation.json"))["date_cst"] != sys.argv[1])' "$day"; then
+          if [ -f last-validation.json ] && python -c 'import json,sys; d=json.load(open("last-validation.json")); sys.exit(not (d.get("date_cst") == sys.argv[1] and d.get("count") == 50))' "$day"; then
             echo 'run=false' >> "$GITHUB_OUTPUT"
           else
             echo 'run=true' >> "$GITHUB_OUTPUT"

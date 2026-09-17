@@ -14,7 +14,7 @@ def git(*args):
 
 def main():
     lines = (ROOT / "validated-nodes.txt").read_text(encoding="utf-8").splitlines()
-    assert 0 < len(lines) <= 20
+    assert len(lines) == 50
     assert len(lines) == len(set(lines))
     assert all(line.startswith(("vmess://", "vless://", "ss://", "trojan://", "hysteria2://", "hy2://", "tuic://")) for line in lines)
     if git("status", "--porcelain", "--untracked-files=no"):
@@ -24,7 +24,7 @@ def main():
     git("fetch", "origin", "main")
     if git("rev-parse", "HEAD") != git("rev-parse", "origin/main"):
         remote_marker = subprocess.run(["git", "show", "origin/main:last-validation.json"], cwd=ROOT, capture_output=True, text=True)
-        if remote_marker.returncode == 0 and json.loads(remote_marker.stdout).get("date_cst") == day:
+        if remote_marker.returncode == 0 and (remote_state := json.loads(remote_marker.stdout)).get("date_cst") == day and remote_state.get("count") == 50:
             print("ALREADY_VALIDATED_BY_OTHER_RUN")
             return
         raise RuntimeError("remote main changed; pull and revalidate before publishing")
@@ -35,7 +35,7 @@ def main():
     nodes = ROOT / "nodes.txt"
     marker = ROOT / "last-validation.json"
     state = {"date_cst": day, "source": source, "count": len(lines), "time_cst": now.isoformat()}
-    if nodes.read_bytes() == new_bytes and marker.exists() and json.loads(marker.read_text(encoding="utf-8")).get("date_cst") == day:
+    if nodes.read_bytes() == new_bytes and marker.exists() and (state_now := json.loads(marker.read_text(encoding="utf-8"))).get("date_cst") == day and state_now.get("count") == 50:
         print(f"ALREADY_VALIDATED={len(lines)}")
         return
     nodes.write_bytes(new_bytes)
