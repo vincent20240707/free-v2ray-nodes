@@ -5,12 +5,9 @@ https://raw.githubusercontent.com/clashv2ray-hub/v2rayfree/refs/heads/main/v2ray
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_not_ru.txt
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt
-https://raw.githubusercontent.com/free-nodes/clashfree/main/sub.yml
-https://www.xrayvip.com/free.txt
-https://www.ermao.net/sub/v2ray/ermao.net
-https://raw.githubusercontent.com/lyqnihao/proxy/refs/heads/main/V2Nodes/output.yaml
-https://node.nodefree.me/2026/09/20260919.txt
-https://clashgithub.com/wp-content/uploads/rss/20260919.txt
-https://todayclashnode.github.io/uploads/2026/09/0-20260919.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt
+https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs_base64.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
 https://cdn.jsdelivr.net/gh/free18/v2ray@main/c.yaml
