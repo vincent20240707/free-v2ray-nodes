@@ -12,4 +12,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
 https://raw.githubusercontent.com/hezhanleiok/freesub/main/output/v2ray.txt
-https://cdn.jsdelivr.net/gh/free18/v2ray@main/c.yaml
+https://clashstair.cczzuu.top/2026/09/clashstair-20260922.txt
+https://node.nodefree.me/2026/09/20260922.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
