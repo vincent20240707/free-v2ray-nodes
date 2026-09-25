@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub
 https://raw.githubusercontent.com/clashv2ray-hub/v2rayfree/refs/heads/main/v2ray.txt
@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/be
 https://raw.githubusercontent.com/ovmvo/FreeSub/refs/heads/main/sub/permanent/mihomo.yaml
 https://raw.githubusercontent.com/vless-reality/vless-reality.github.io/refs/heads/main/.github/links/v2.txt
 https://www.xrayvip.com/free.txt
-https://node.nodefree.me/2026/09/20260924.txt
+https://clashnodefree.com/sub/v2ray.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
@@ -19,3 +19,4 @@ https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/config.txt
 https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt
+https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
