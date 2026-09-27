@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub
 https://raw.githubusercontent.com/clashv2ray-hub/v2rayfree/refs/heads/main/v2ray.txt
 https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_not_ru.txt
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt
-https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
@@ -16,7 +16,5 @@ https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray
 https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
 https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt
 https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/mix
-https://cdn.jsdelivr.net/gh/free18/v2ray@main/c.yaml
-https://node.chinav2ray.com/uploads/2026/09/0-20260926.txt
-https://node.v2ray.me/uploads/2026/09/2-20260926.txt
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
 https://www.xrayvip.com/free.txt
