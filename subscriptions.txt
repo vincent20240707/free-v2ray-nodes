@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/con
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/port_443.txt
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt
 https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/Countries/United_States.txt
-https://v2raydog.cczzuu.top/2026/09/v2raydog-20260929.txt
-https://static.v2rayshare.net/2026/09/20260928.txt
-https://freenode.yoyapai.com/2026/09/28-yoyapai.com-ssrv2rayvpnmianfeijiedian.txt
-https://v2ray-free.github.io/uploads/2026/09/0-20260927.txt
+https://v2raydog.cczzuu.top/2026/09/v2raydog-20260930.txt
+https://static.v2rayshare.net/2026/09/20260930.txt
+https://freenode.yoyapai.com/2026/09/29-yoyapai.com-ssrv2rayvpnmianfeijiedian.txt
+https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt
