@@ -33,5 +33,5 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt
 https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs_base64.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/top100.txt
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt
-gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt
+https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt
 https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt
