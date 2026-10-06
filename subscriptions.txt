@@ -1,14 +1,13 @@
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/lyqnihao/proxy/refs/heads/main/clash-meta/output.yaml
-https://node.nodefree.me/2026/10/20261005.txt
-https://oss.oneclash.cc/2026/10/20261005.txt
-https://static.v2rayshare.net/2026/10/20261005.txt
+https://node.nodefree.me/2026/10/20261006.txt
+https://oss.oneclash.cc/2026/10/20261006.txt
+https://static.v2rayshare.net/2026/10/20261006.txt
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
-https://raw.githubusercontent.com/danmaifu/mianfeijiedian/main/feed/v2ray-20261004.txt
-https://raw.githubusercontent.com/clashv2ray-hub/v2rayfree/refs/heads/main/v2ray.txt
+https://raw.githubusercontent.com/danmaifu/mianfeijiedian/main/feed/v2ray-20261005.txt
 https://raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt
 https://raw.githubusercontent.com/ovmvo/FreeSub/refs/heads/main/sub/permanent/mihomo.yaml
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashmeta.txt
@@ -35,3 +34,4 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/to
 https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt
 https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt
 https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt
+https://raw.githubusercontent.com/freefq/free/master/v2
