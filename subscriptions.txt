@@ -28,5 +28,9 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/to
 https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt
 https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt
 https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/vray_sub.txt
-https://node.nodefree.me/2026/10/20261012.txt
+https://node.nodefree.me/2026/10/20261013.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/nodev2ray.txt
+https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
+https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub
+https://raw.githubusercontent.com/3000S-HTTP/sNSub/main/output/best59_base64.txt
+https://raw.githubusercontent.com/ovmvo/FreeSub/refs/heads/main/sub/permanent/mihomo.yaml
