@@ -15,6 +15,11 @@ https://raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vless.txt
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
 https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_not_ru.txt
-https://node.nodefree.me/2026/10/20261016.txt
-https://static.v2rayshare.net/2026/10/20261016.txt
+https://node.nodefree.me/2026/10/20261017.txt
+https://static.v2rayshare.net/2026/10/20261017.txt
 https://raw.githubusercontent.com/lyqnihao/proxy/refs/heads/main/nodev2ray/output.yaml
+https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/latest.v2ray.txt
+https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt
+https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray
+https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
+https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt
