@@ -18,4 +18,13 @@ https://raw.githubusercontent.com/wenxig/free-nodes-sub/refs/heads/main/data/sub
 https://raw.githubusercontent.com/lyqnihao/proxy/refs/heads/main/nodev2ray/output.yaml
 https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/mix.txt
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
-https://node.nodefree.me/2026/10/20261022.txt
+https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
+https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt
+https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt
+https://raw.githubusercontent.com/ninjastrikers/Nexus-nodes/main/configs/all.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt
