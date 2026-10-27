@@ -19,3 +19,7 @@ https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.t
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
 https://raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt
+https://raw.githubusercontent.com/ovmvo/FreeSub/refs/heads/main/sub/permanent/mihomo.yaml
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+https://nodesub.v2raydog.com/2026/10/v2raydog-20261027.txt
+https://nodesub.stairnode.com/2026/10/stair-20261027.txt
