@@ -9,7 +9,6 @@ https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt
 https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs_base64.txt
 https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/configs/mixed/vless.b64
-https://raw.githubusercontent.com/danmaifu/mianfeijiedian/main/feed/v2ray-20261123.txt
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/freenodess/freenodess/refs/heads/main/nodes/v2ray-base64.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_base64_Sub.txt
@@ -20,6 +19,7 @@ https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/Confi
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
 https://raw.githubusercontent.com/10Dream/sub-mod/main/sub/base64/mix.txt
-https://nodesub.airportshare.net/2026/11/airportshare-20261123.txt
-https://node.v2rayx.com/uploads/2026/11/1-20261123.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/top100.txt
+https://nodesub.airportshare.net/2026/11/airportshare-20261124.txt
+https://raw.githubusercontent.com/haiwanai/free-nodes/main/sub.txt
+https://leidahub.top/v2ray.txt
